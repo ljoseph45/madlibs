@@ -1,5 +1,7 @@
 adverbs = adverbs.concat([
-    'quickly',
-    'foolishly',
-    'coyly'
+    'slowly',
+    'steadily',
+    'crankily',
+    'heavily',
+    'barely',
 ]);
